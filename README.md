@@ -81,7 +81,7 @@ In addition to the Jupyter Notebook analysis, this project includes a Power BI d
 - **Geographical Analysis**: View state-wise sales distribution.
 - **Product Analysis**: Explore sales by product category and top-selling products.
 
-To access the Power BI dashboard, open the `Diwali_Sales_Analysis.pbix` file in Power BI Desktop or view it online [here](https://app.powerbi.com/view?r=actual-link).
+To access the Power BI dashboard, open the `Diwali_Sales_Analysis.pbix` file in Power BI Desktop or view it online [here](https://app.powerbi.com/reportEmbed?reportId=66cf9e26-7c6e-40eb-9921-1203a31184cf&autoAuth=true&ctid=168c05fc-dcc7-4aa8-ae05-6c848fe9cfac).
 
 ![Power BI Dashboard](powerbi_dashboard.png)
 
